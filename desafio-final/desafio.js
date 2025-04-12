@@ -1,14 +1,3 @@
-/* Contagem de Medalhas
-Crie um programa que receba o número de medalhas de ouro, prata e bronze de um país nas Olimpíadas e calcule o total de medalhas. Quando escrever 'sair', o programa deverá encerrar e mostrar na tela o ranking de medalhas no formato:
-
-
-#Ranking de medalhas:
-#Brasil: 7 medalhas
-#França: 6 medalhas
-#Argentina: 3 medalhas
-
-*/
-
 function funcaoPrincipal(){
     var Paises = [];
     while(true){
@@ -34,12 +23,12 @@ function funcaoPrincipal(){
 }
 
 function imprimirRanking(Paises){
-    Paises.forEach(pais => { // Usado para percorrer arrays, executando uma função para cada elemento do array.
-        Paises.sort((a, b) => b.total - a.total);
+    Paises.forEach(pais => { // Usado para percorrer arrays, executando uma função para cada elemento do array 
+        Paises.sort((a, b) => b.total - a.total); // Serve para ordenar os elementos de um array, nesse caso para ordem decrescente o total de medalhas
     })
     console.log("Ranking de medalhas:");
     Paises.forEach(pais => {
-        console.log(`${pais.nome}: ${pais.total} Medalhas (${pais.ouro} ouro(s), ${pais.prata} prata(s) e ${pais.bronze} bronze(s))`)
+        console.log(`${pais.nome}: ${pais.total} medalhas [${pais.ouro} ouro(s), ${pais.prata} prata(s) e ${pais.bronze} bronze(s)]`)
     })
 }
 

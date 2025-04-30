@@ -18,6 +18,6 @@ Feito com 💛 por Sarah Cabral
 
 Vamos nos conectar?
 
-[![Gmail Badge](https://img.shields.io/badge/-Sarah_Cabral-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bysarahcabral@gmail.com)](mailto:bysarahcabral@gmail.com)
-[![Linkedin: Sarah Cabral](https://img.shields.io/badge/-bysarahcabral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bysarahcabral//)](https://www.linkedin.com/in/bysarahcabral/)
-[![GitHub](https://img.shields.io/github/followers/bysarahcabral?label=follow&style=social)](https://github.com/bysarahcabral)
+[![Gmail Badge](https://img.shields.io/badge/-Sarah_Cabral-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bysarahcabral@gmail.com)](mailto:sahyneer@gmail.com)
+[![Linkedin: Sarah Cabral](https://img.shields.io/badge/-sahyneer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahyneer//)](https://www.linkedin.com/in/sahyneer/)
+[![GitHub](https://img.shields.io/github/followers/sahyneer?label=follow&style=social)](https://github.com/sahyneer)
